@@ -1,0 +1,44 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "task 1",
+        "description": "Python is a very simple language, and has a very straightforward syntax. It encourages programmers to program without boilerplate (prepared) code. The simplest directive in Python is the directive - it simply prints out a line (and also includes a newline, unlike in C).",
+        "samples": [
+            {
+                "input": "2",
+                "output": "true"
+            },
+            {
+                "input": "3",
+                "output": "false"
+            },
+            {
+                "input": "1234",
+                "output": "true"
+            }
+        ],
+        "defFunc": "def isEven(num):"
+      },
+      {
+        "id": 2,
+        "title": "task 2",
+        "description": "Python is a very simple language, and has a very straightforward syntax. It encourages programmers to program without boilerplate (prepared) code. The simplest directive in Python is the directive - it simply prints out a line (and also includes a newline, unlike in C).",
+        "samples": [
+            {
+                "input": "2",
+                "output": "true"
+            },
+            {
+                "input": "3",
+                "output": "false"
+            },
+            {
+                "input": "1234",
+                "output": "true"
+            }
+        ],
+        "defFunc": "def isEven(num):"
+      }
+    ]
+  }
